@@ -1,4 +1,8 @@
-Installation
+**Installation**
+
+
+
+
 To install and run the Task Management App locally, follow these steps:
 
 Clone the project
